@@ -1,0 +1,2 @@
+*.apklib diff=zip
+*.jar diff=zip
