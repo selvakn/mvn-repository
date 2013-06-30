@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.android.tools.build</groupId>
+  <artifactId>builder</artifactId>
+  <version>0.5.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130630.134650</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20130630134650</lastUpdated>
+  </versioning>
+</metadata>
